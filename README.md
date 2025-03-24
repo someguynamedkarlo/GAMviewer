@@ -1,5 +1,5 @@
 
 # GAMviewer
 
-This is a picture viewer that should help you sort images
-
+a neki ludi file explorer 
+koji nikad nije dovrsen😥
